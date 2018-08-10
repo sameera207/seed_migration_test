@@ -1,24 +1,3 @@
-# README
+### One solution for the quistion asked on seed_migration gem
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[[Question] Rails migrations and Data migration possible conflicts](https://github.com/harrystech/seed_migration/issues/62)
